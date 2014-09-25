@@ -1,0 +1,5 @@
+Integrantes:
+Sergio Loaiza, Tarjeta de identidad:
+Camilo Andrés Sampedro Restrepo, Cédula: 1037640884
+
+Nota: Ambos proyectos necesarios, utiles contiene lo necesario para operar las matrices en tripletas.
